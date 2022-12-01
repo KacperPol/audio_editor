@@ -1,2 +1,3 @@
 # audio_editor
-Simple audio editor with GUI
+PL: Prosty edytor audio z GUI
+EN: Simple audio editor with GUI
